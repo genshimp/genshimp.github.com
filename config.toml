@@ -1,5 +1,5 @@
 theme = "hugo-sugoi"
-baseURL = "https://example.com"
+baseURL = "https://genshimp.onrender.com"
 languageCode = "en-us"
 title = "Genshin"
 summaryLength = 20
